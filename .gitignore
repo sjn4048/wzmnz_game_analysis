@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+data/
+.idea/
+weibo_crawler/weibo
+weibo_crawler/*.log
